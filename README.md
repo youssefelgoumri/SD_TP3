@@ -1,7 +1,7 @@
 # Activité Pratique N°3 - GRPC
 
 
-- Partie 1
+-Partie 1
 
 * Unary model
 ![f3805956-3a0a-4788-bc9f-1a537e757282](https://github.com/youssefelgoumri/SD_TP3/assets/94170257/e67df52a-3759-4e26-b499-fc636d95cb22)
@@ -32,7 +32,7 @@
 ![dcc07eca-5f0c-4a31-8985-a3448afd1ff2](https://github.com/youssefelgoumri/SD_TP3/assets/94170257/2af2298f-c150-454c-814e-99f0cfb9d993)
 
 
-- Partie 2 :
+-Partie 2 :
 
 * Chat:
 
